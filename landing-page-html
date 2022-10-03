@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="RampantLionReviews, A Scottish-Swedish YouTube channel specialising in Craft Beer reviews.">
+	<meta name="keywords" content="beer, craft beer, craft ale, ale, youtube, beertube, youtuber, beertuber">
+	<meta name="author" content="RampantLionReviews">
+
+	<link rel="stylesheet" href="style.css">
+	
+	<title>RampantLionReviews</title>
+
+</head>
+
+  <header id="homepage-header">
+		<div> id="header-text">
+		<h1>Rampant Lion Reviews</h1>
+		<p>YouTube Craft Beer Reviews since 2013</p>
+		</div>
+	</header>
+  
+  <div id="landing-page-text">
+  
+  <p> Welcome to the RampantLionReviews website!
+  <br> This website is intended as a supplement to the beer reviews you will find on the <a href="https://www.youtube.com/channel/UCqkLKrkhJ2BBaclFOv4HaPg" label="Click here to go to the Youtube Channel">YouTube Channel</a>
+  <br> Here you can learn more about the Channel, Brewing, Beer Ingredients, Beer Styles & More!
+  <br> Slainte & Skål!
+  <a href="">Enter Main Site</a>
+  </p>
+  
+  </div>  
+  
+  <footer class="website-footer" id="landing-page-footer">
+
+		<span>Find us on:</span>
+
+		<a href="https://https://www.youtube.com/channel/UCqkLKrkhJ2BBaclFOv4HaPg" target="_blank" rel="noopener" label="Find RLR on YouTube (link opens in a new tab)">YouTube</a>
+    <a href="https://www.facebook.com/rampantlionreviews/" target="_blank" rel="noopener" label="Find RLR on Facebook (link opens in a new tab)">Facebook</a>
+		<a href="https://www.instagram.com/rampantlionbeerreviews/" target="_blank" rel="noopener" label="Find RLR on Instagram (link opens in a new tab)">Instagram</a>
+		<a href="https://twitter.com/rampantlionbeer?lang=en" target="_blank" rel="noopener" label="Find RLR on Twitter (link opens in a new tab)">Twitter</a>
+    <a href="https://untappd.com/user/RampantLionReviews" target="_blank" rel="noopener" label="Find RLR on Untappd (link opens in a new tab)">Untappd</a>
+
+		<p>Copyright © RampantLionReviews 2022</p>
+	
+	</footer>
+
+
+<body>
+
+</body>
+
+</html>
