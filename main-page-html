@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="RampantLionReviews, A Scottish-Swedish YouTube channel specialising in Craft Beer reviews.">
+	<meta name="keywords" content="beer, craft beer, craft ale, ale, youtube, beertube, youtuber, beertuber">
+	<meta name="author" content="RampantLionReviews">
+
+	<link rel="stylesheet" href="style.css">
+	
+	<title>RampantLionReviews</title>
+
+</head>
+
+<body>
+
+  <header id="homepage-header">
+		<div> id="header-text">
+		<h1>Rampant Lion Reviews</h1>
+		<p>YouTube Craft Beer Reviews since 2013</p>
+		</div>
+	</header>
+  
+  <nav>
+  <a>About RLR</a>
+  <a>Beer Explained</a>
+  <a>How To Taste Beer</a>
+  <a>Ingredients</a>
+  <a>The Brewing Process</a>
+  <a>Beer Styles</a>
+  <a>Leave Feedback</a>
+  </nav>
+  
+ <div id="about-section" class="main-page-section>
+ 
+  <h1 id="about-section-header" class="main-page-section-header">About RampantLionReviews</h1>
+ 
+    <p> RampantLionReviews was founded by me, James Marshall, in July 2013. 
+    <br> 
+    <p>I am a Software Developer by trade but am also a qualified Science & Maths teacher and graduated with Masters Degrees in Chemistry and Astrophysics.</p>
+    <br> 
+    <p>During my time at Aberdeen University, I had a German flatmate called Daniel. One evening we went to the famous Moorings Bar (now Krakatoa)
+    to listen to some live metal and it was that night in 2009 that Daniel introduced me to Schlenkerla Rauchbier. Having never liked beer prior to this, 
+    trying this Märzen proved to be somewhat of a revelation!</p>
+    <br> 
+    <p>This was also around the time that Brewdog began to pop up and they opened their bar next to Marischal college in 2010. Over the next two or three years
+    I visited the bar regularly and always tried different styles of beer. I began to wonder “How could anyone possibly remember all the different beers that they’ve 
+    tried?” and eventually I came up with the idea that I could make videos for YouTube to document all the beers that I tried myself.</p>
+    <br> 
+    <p> At the time I thought that I had a very unique idea but, after starting to make videos in July 2013, I soon found that there was already a small community of
+    BeerTubers and over the years this has steadily grown to be a great global community. </p> 
+    <br> 
+    <p> I started RampantLionReviews as my own way of documenting the beers that I tried with the mentality that “If other people like it, great. 
+    If they don’t, meh I’m having fun!”. It turned out that quite a lot of people did like it and the channel has grown to have over 20,000 subscribers.</p>
+    <br> 
+    <p>The channel has evolved to include different kinds of videos with beer from all over the world but there is still much to cover!</p>
+
+ </div>
+ 
+ <div id="beer-explained" class="main-page-section">
+ 
+  <h1 id="beer-explained-header"> What are the different types of beer?<h1>
+    
+    <p> This is in fact very simple. There are only two main types of beer: Lager and Ale.<p> 
+    <br> 
+    <p>All beer styles, such as stout or IPA, fit into one of these two categories.</p>
+    <br> 
+    <p>The key difference between a lager and ale is in the fermentation process:</p>
+    <br>
+      <ol> 
+        <li>Lagers ferment using yeasts that operate at colder temperatures, known as bottom-fermenting yeasts.</li>
+        <li>Ales ferment using yeasts that operate at higher temperatures, known as top-fermenting yeasts.</li>
+      </ol>
+ 
+ </div>
+ 
+ <div id="beer-tasting" class="main-page-section>
+ 
+   <h1>How to taste beer:</h1>
+      <p>Over the years, I have developed my own way of tasting beer that has evolved.</p>
+      <br>
+      <p> Before going into more detail, some general statements can be made:</p>
+        <ul>
+          <li>Sweet flavours in the beer will come from the malts</li>
+          <li>Bready and grainy flavours will come from a mixture of the malts and the yeast.</li>
+          <li>Floral, grassy and fruity flavours come from the hops.</li>
+         </ul>
+       <br>
+       <p>While these are, of course, general statements there are other factors that can play a role in the flavour of beer. 
+       For example, barrel-ageing can add different elements of woody and spirit flavours to the beer. Many sour beers also contain different 
+       fruits that will also contribute to the flavour.</p>
+       <br>
+       <p> All of these flavours can be found on different parts of the palate:</p>
+       <br>
+       <p> The sweet flavours from the malt will appear in the <span>middle third</span> of the palate and it will often be the case that the more bready or grainy 
+       side of the malt will be underneath the sweeter caramelly or biscuity flavours which mask the alcohol.The bready side of the malty flavours continues into
+       the <span>back third</span> of the palate and will show a more dry and grainy character. </p>
+       <br> 
+       <p>Often, yeasty flavours can be found on top of that and flavours such as a more light, airy and farmhouse bread can be enjoyed.</p> 
+       <br> 
+       <p>Hoppy flavours will be found on the <span>edges</span> and <span>front third</span> of the palate.The earthy, floral and grassy or “green” flavours that 
+       contribute to the bitterness will be found on the edge of the palate. The oily fruity flavours from hops will be found on the front third of the palate.</p>
+       <br>
+       <p>In the case of beers containing adjuncts, the position of the flavour will very much depend on the adjunct itself. Coffee beans for example will be found
+       further back on the palate due to their more bitter nature, whereas adjunct fruits will be detected further forward on the palate due to their sweetness and
+       will often supress some of the bitterness from green side of the hops.</p>
+       <br>
+       <p>In the case of sour beers and wild ales there will often be a sour impact that will mellow out over the course of drinking the beer. 
+       This can often be detected in the middle of the front third of the palate.</p>
+
+  </div>
+ 
+ <div id="beer-ingredients" class="main-page-section">
+ 
+ <h1>Ingredients:</h1>
+ 
+  <h2>Water:</h2>
+    <p>Water composes 90-95% of the average beer. Water profiles contain different minerals and ions and this will of course vary depending on the
+    location of the individual brewery.</p>
+    <br>
+  <h2>Malt:</h2>
+    <p>The malt base of a beer contributes the bready and sweet flavours to a beer. The vast majority of malt used in brewing is barley treated in different
+    ways to create different kinds of malt such as black, chocolate, rauch, Crystal, Carafa etc. A number of more traditional beers styles contain a considerable
+    portion of wheat malt, while a number of the more modern styles also contain some malted oat or rye.</p>
+    <br>
+  <h2>Hops:</h2>
+    <p>Hops contribute the many of the fruity and “green” flavours (such as earthy, floral and grassy) to the beer. The traditional beer countries such as Belgium,
+    Czech, England & Germany are all long-standing hop-producing nations. There are innumerable different varieties of hops with their own individual green and fruity
+    characteristics. In the more recent Craft Beer years, nations such as the USA, New Zealand and Australia have also become large hop-producers.</p>
+    <br>
+  <h2>Yeast:</h2>
+    <p>Yeast bacteria do the hardest job in brewing: converting sugar into alcohol. Bacteria evolve over generations and, in today’s brewing world, many brewers use
+    yeast strains that are specific to the style of beer that they are brewing. Similarly, many older breweries have developed their own house yeast strains over tens
+    and even hundreds of years. The length of the fermentation process can vary greatly and is again normally specific to the individual beer style or the brewer’s
+    discretion.</p>
+    <br>
+  <h2>Adjuncts:</h2> 
+    <p>Adjuncts are used as a more direct way to inject specific flavours into a beer that can be complementary to the style. Traditional Belgian beers have long used
+    different sugars in their beers to add ABV to the beer. In modern craft brewing adjuncts can include a variety of different fruits which are common in sour/wild ales
+    and coffee beans or flavour essence in imperial stouts to name but a few.</p> 
+
+ 
+ </div>
+ 
+ <div id="brewing-process" class="main-page-section">
+ 
+  <h1>The Brewing Process:</h1>
+  
+    <p>Many have the misconception that the brewing process is extremely complicated, however it can be explained succinctly when split into three stages:</p>
+  
+    <ol>
+      <li>The malted grain is placed in the mash tun and warm water is pumped through the mix to extract the sugars. The resulting sugary liquid is known as the wort.</li>
+      <li>The wort is then boiled and hops are added at different time junctures to give bitterness, flavour and aroma. At the end of the wort boil, the resulting mix of 
+      wort and hops is then quickly cooled.</li>
+      <li>The cool liquid is transferred to a fermentation vessel. At this point the yeast (and an adjuncts) is added to the raw beer to start the conversion of sugar
+      to alcohol. The key variables in the fermentation are the individual yeast strain, temperature and the time - these variables are often style-specific.</li>
+    </ol> 
+ 
+ </div>
+
+   <footer class="website-footer" id="main-page-footer">
+
+		<span>Find us on:</span>
+
+		<a href="https://https://www.youtube.com/channel/UCqkLKrkhJ2BBaclFOv4HaPg" target="_blank" rel="noopener" label="Find RLR on YouTube (link opens in a new tab)">YouTube</a>
+    <a href="https://www.facebook.com/rampantlionreviews/" target="_blank" rel="noopener" label="Find RLR on Facebook (link opens in a new tab)">Facebook</a>
+		<a href="https://www.instagram.com/rampantlionbeerreviews/" target="_blank" rel="noopener" label="Find RLR on Instagram (link opens in a new tab)">Instagram</a>
+		<a href="https://twitter.com/rampantlionbeer?lang=en" target="_blank" rel="noopener" label="Find RLR on Twitter (link opens in a new tab)">Twitter</a>
+    <a href="https://untappd.com/user/RampantLionReviews" target="_blank" rel="noopener" label="Find RLR on Untappd (link opens in a new tab)">Untappd</a>
+
+		<p>Copyright © RampantLionReviews 2022</p>
+	
+	</footer>
+
+</body>
+
+</html>
